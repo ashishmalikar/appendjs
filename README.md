@@ -1,4 +1,11 @@
-## Exmaple
+##Installing
+Using npm:
+
+```
+$ npm install axios
+```
+
+## Example
 
 ```html
 <div id="pageContainer"></div>

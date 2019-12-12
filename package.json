@@ -1,6 +1,6 @@
 {
   "name": "appendjs",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/ashishmalikar/appendjs.git"
   },
+  "keywords": [
+    "dom", 
+    "JavascriptDOM",
+    "DomElementCreation",
+    "CreateElementWithJavascript"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
