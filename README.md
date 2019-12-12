@@ -7,7 +7,7 @@
 ```javascript
 
 <script>
-var pageContainer = append(document.querySelector('#pageContainer'), {
+var pageContainer = append('#pageContainer', {
             name: 'div',
             attributes: {
                 'class': 'ui segment'
