@@ -1,4 +1,8 @@
-##Installing
+## Introduction
+
+With appendJS we can create HTML element from JSON like structure. This helps us to HTML page in JSON format.
+
+## Installing
 Using npm:
 
 ```
