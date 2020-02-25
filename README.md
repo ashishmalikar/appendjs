@@ -6,7 +6,7 @@ With appendJS we can create HTML element from JSON like structure. This helps us
 Using npm:
 
 ```
-$ npm install axios
+$ npm install appendjs
 ```
 
 ## Example
